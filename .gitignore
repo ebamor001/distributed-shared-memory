@@ -1,0 +1,11 @@
+*.o
+*~
+*.a
+Phase1/bin/*
+Phase1/examples/basic
+Phase1/examples/calcul
+Phase1/examples/hello
+Phase1/examples/trick_hello
+.vscode/
+Phase1/machine_file.txt
+
